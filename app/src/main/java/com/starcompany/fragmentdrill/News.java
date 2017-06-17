@@ -2,7 +2,7 @@ package com.starcompany.fragmentdrill;
 
 public class News {
 
-    public static final String [] titles= {
+    public static final String [] Titles= {
         "title 0",
                 "title 1",
                 "title 2",
